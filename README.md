@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Birthday Surprise for Reena Didi 💗
 
 ## Files
@@ -37,3 +38,6 @@ Send the URL on WhatsApp / Instagram DM, or use the Share button on the last scr
 - [ ] Replay, Back to the beginning, Share (or copy link)
 - [ ] Open the public URL on another device; check the link preview
 - [ ] Phone "reduce motion" setting calms animations
+=======
+# birthday-wishes
+>>>>>>> 00d264030010301d2890b0dde59040f191a70f3d
